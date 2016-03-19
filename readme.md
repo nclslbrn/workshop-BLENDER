@@ -2,8 +2,8 @@
 INDEX
 ___
 
-[Le plan de travail et les modes d'édition](la-vue-et-les-modes.md)
-[Les objets et les principales raccourcis](modes-d-editions.md)
+- [Le plan de travail et les modes d'édition](la-vue-et-les-modes.md)
+- [Les objets et les principales raccourcis](les-objets.md)
 
 
 ---
