@@ -2,7 +2,7 @@
 [INDEX](readme.md) >> Les modes d'éditions et les objets
 
 
-## Les composants des objets
+## Les composants des volumes
 
 ![modes](src/vertice-edge-face.png)
 Il existe dans tout les logiciels de 3D la même dénomination pour les composants d'un objet.
@@ -12,7 +12,7 @@ Il existe dans tout les logiciels de 3D la même dénomination pour les composan
 - la face /<em> face </em>
 
 
-## Les pricipaux raccourcis
+## Les pricipales commandes
 Les commandes les plus courantes ( communes aux <em>object mode</em> & <em> edit mode</em> ):
 - ```g``` (grab) * : déplacer la sélection
 - ```r``` (rotate) * : appliquer une rotation à la sélection
