@@ -1,24 +1,9 @@
-# <img src="src/blender.svg" height="40px"> La 3D avec Blender
-Workshop à l'ESBAMMM du 23 au 25 Mars
+# ![logo blender](src/blender.png)La 3D avec Blender
+INDEX
 ___
-### Les repères et les opérations simples
-- <a href="./plan-de-travail.md">le plan de travail (orientation, vue et calques)</a>
-- <a href="./volumes-solides.md">les volumes / solides  (sélection, déplacement, duplication et groupe)</a>
-- les faces (extrusion, mise à l’echelle, division, section et normales)
-- les points (maillage, lissage, groupe)
-- opération booléennes (soustraction, addition et intersection entre deux volumes)
 
-### Outils de modélisation plus pousées
-- modélisation en tour ou spin
-- modélisation en miroir
-- déformation à l’aide de courbes
-
-### Cycle ( le nouveau moteur de rendu )
-- les matériaux (spéculaires, réflexion, transparence, miroir et ombres)
-- les textures simples et leur système de projection
-- les textures complexes (UV mapping) et leurs influences (bump map, normal map, reflection map)
-- l’éclairage
-- le rendu et ses composants
+[Le plan de travail et les modes d'édition](la-vue-et-les-modes.md)
+[Les objets et les principales raccourcis](modes-d-editions.md)
 
 
 ---
