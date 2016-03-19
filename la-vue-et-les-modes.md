@@ -1,6 +1,6 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Le plan de travail
-___
+
 
 ## La vue
 Par défaut, il n'y a qu'une vue 3D de la scène.

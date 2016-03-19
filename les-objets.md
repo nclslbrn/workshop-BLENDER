@@ -1,6 +1,6 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Les modes d'éditions et les objets
-___
+
 
 ## Les composants des objets
 
@@ -36,7 +36,7 @@ La commande *```subdivide```* vous permettra multiplier le nombre de points.
 
 ## Sélection
 
-La prise en main de Blender peut sembler déroutante au début, car dans la scène, le clique droit sert à la selection d'objet et le clique gauche permet de déplacer un repère qui servira à déplacer les objets ou <em>mesh</em>.
+La prise en main de Blender peut sembler déroutante au début, car dans la scène, le clique droit sert à la selection d'objet et le clique gauche permet de déplacer un repère qui servira à déplacer les objets ou *mesh*
 
 
 - ```a``` : tout sélectionner / tout déselectionner
@@ -46,3 +46,7 @@ La prise en main de Blender peut sembler déroutante au début, car dans la scè
 - &uArr; (maj) + ```D``` : duppliquer la sélection
 
 > Blender peut récupérer des sélections automatiquement si ses points sont alignées. Pour cela, vous devez sélectionner au moins deux points (maintenez &uArr; enfoncé ) puis sélectionner le troisième en maintenant &uArr; et ```alt```.
+
+![modes](src/selection-enregistree.png)
+
+> Vous pouvez aussi enregistrer des sélections de points dans le panneau latéral gauche.
