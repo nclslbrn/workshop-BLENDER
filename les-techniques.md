@@ -15,4 +15,14 @@ Cet outil doit être utiliser comme le modifieur mirroir sauf qu'au lieu d'utili
 
 [Télécharger le fichier d'exemple](fichiers-blender/outil-spin.blend)
 
-## Les modifieurs
+## Les autres modifieurs
+
+#### Array
+
+#### Subdivision surface
+
+#### Bevel
+
+#### Screw
+
+#### Curve

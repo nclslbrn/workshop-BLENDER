@@ -13,8 +13,13 @@ Avec le clavier:
 - ```4``` et ```6``` : faire une rotation vers la gauce ou la droite
 - ```8``` et ```2``` : faire une rotation vers le haut ou le bas
 - ```0``` : entrer et sortir de la vue caméra
+- ```5``` : vue en perspective ou orthographique
+- ```7``` : vue de dessus
+- ```1``` : vue de face
+- ```3``` : vue de cotès 
 - &uArr; (maj) + ```C``` : recentrer le repère et la vue sur le centre de la scène
-- en ayant un objet sélectionné  &uArr; (maj) + ```.``` : recentrer le repère et la vue sur l'objet
+- en ayant un objet sélectionné  &uArr; (maj) + ```.``` : recentrer le repère et la vue sur l'objet.
+
 
 <br />
 
