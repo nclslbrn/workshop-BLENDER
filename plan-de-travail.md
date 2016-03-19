@@ -14,18 +14,31 @@ Avec la souris, vous pouvez vous déplacer dedans :
 - en cliquant sur la molette de <em>scroll</em> vous pouvez tourner autour de votre repère
 
 Avec le clavier:
-- <code>4</code> et <code>6</code> : faire une rotation vers la gauce ou la droite
-- <code>8</code> et <code>2</code> : faire une rotation vers le haut ou le bas
-- <code>0</code> : entrer et sortir de la vue caméra
-- <code>&uArr;</code> (maj) + <code>C</code> : recentrer le repère et la vue
+- ```4``` et ```6``` : faire une rotation vers la gauce ou la droite
+- ```8``` et ```2``` : faire une rotation vers le haut ou le bas
+- ```0``` : entrer et sortir de la vue caméra
+- &uArr; (maj) + ```C``` : recentrer le repère et la vue sur le centre de la scène
+- en ayant un objet sélectionné  &uArr; (maj) + ```.``` : recentrer le repère et la vue sur l'objet
 
+
+
+
+ ![modes](src/vue-3d.gif)
+
+Si vous souhaitez avoir plusieurs vues 3D, faite glisser le coin supérieur droit vers l'intérieur de la vue.
 
 #### Les modes d'éditions
+
+![modes](src/edit_mode-object_mode.png)
+
 Vous pouvez modifier les objets selon deux modes, le premier, <em>object mode</em> vous permettra de déplpacer, mettre à l'échelle, faire des rotations sur un objet, le deuxième, <em>edit mode</em> vous permettra de faire ces même opérations et d'autres dans l'objet sélectionné. L'<em>edit mode</em> sert principalement à modifier certaines parties ou composantes de l'objet / <em>mesh</em>.
 
 Vous pouvez à tout moment basculer entre ces deux modes avec la touche &rlarr; (tab) de votre clavier.
 
 #### Les composants des objets
+
+![modes](src/vertice-edge-face.png)
+
 Il existe dans tout les logiciels de 3D la même dénomination pour les composants d'un objet.
 - le point /<em> vertice </em>
 - le segment /<em> edge </em>
@@ -33,19 +46,22 @@ Il existe dans tout les logiciels de 3D la même dénomination pour les composan
 
 #### Les pricipaux raccourcis
 Les commandes les plus courantes ( communes aux <em>object mode</em> & <em> edit mode</em> ):
-- <code>g</code> (grab) * : déplacer la sélection
-- <code>r</code> (rotate) * : appliquer une rotation à la sélection
-- <code>s</code> (scale) * : changer l'échelle de la sélection
+- ```g``` (grab) * : déplacer la sélection
+- ```r``` (rotate) * : appliquer une rotation à la sélection
+- ```s``` (scale) * : changer l'échelle de la sélection
 
 Les commandes spécifiques au <em>edit mode</em>
-- <code>e (extrude) * : extruder la sélection
+- ```e``` (extrude) * : extruder la sélection
+
+
+![modes](src/locked-on-x.png)
 
 *:Vous pouvez, après avoir lancer ces commandes, appuyer sur x, y ou z pour vérouiller la modification sur ces axes.
 Vous pouvez aussi, après avoir vérouiller un axe, définir une valeur à l'aide de votre clavier.
-- <code>a</code> : tout sélectionner / tout déselectionner
-- <code>b</code> : créer un sélection en traçant un rectangle
-- <code>c</code> : créer une sélection en déplaçant un cercle ( le zoom / dézoom de la molette de la souris permettra de modifier son rayon)
-- <code>x</code> : supprimer la sélection
-- <code>&uArr;</code> (maj) + <code>D</code> : duppliquer la sélection
+- ```a``` : tout sélectionner / tout déselectionner
+- ```b``` : créer un sélection en traçant un rectangle
+- ```c``` : créer une sélection en déplaçant un cercle ( le zoom / dézoom de la molette de la souris permettra de modifier son rayon)
+- ```x``` : supprimer la sélection
+- &uArr; (maj) + ```D``` : duppliquer la sélection
 
 *: objet / face(s) / segement(s) / point(s)
