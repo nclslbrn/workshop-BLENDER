@@ -1,14 +1,6 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Les techniques de modélisations
 
-- [Le modifieur mirror](#)
-- [Le Spin](#)
-- [Array](#)
-- [Subdivision de surface](#)
-- [Le Bevel](#)
-- [Le Screw](#)
-- [Curve](#)
-
 ## Le modifieur *mirror*
 ![mirror modifier](src/mirror-modifier.png)
 
@@ -20,7 +12,7 @@ Ce modifieur se révèle trés pratique pour modéliser des objets symétriques.
 ## Le *Spin*
 ![outil spin](src/outil-spin.png)
 
-Cet outil doit être utiliser comme le modifieur mirroir sauf qu'au lieu d'utiliser des faces qui vont se toucher, il vous faut créer un profil qui va tourner. Le profil doit toujours être excentrer sinon il va tourner sur lui-même.
+Cet outil doit être utiliser comme le modifieur mirroir. Le profil qui va être répété en tournat doit toujours être excentrer sinon il va tourner sur lui-même.
 
 [Télécharger le fichier d'exemple](fichiers-blender/outil-spin.blend)
 
