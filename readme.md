@@ -5,6 +5,7 @@ INDEX
 - [Le plan de travail et les modes d'édition](la-vue-et-les-modes.md)
   - La vue
   - Les modes d'éditions
+  - Changer l'aspect des solides de la vue 3D
 - [Les volumes et les principales commandes](les-volumes.md)
   - Les composants des volumes
   - Les pricipales commandes
