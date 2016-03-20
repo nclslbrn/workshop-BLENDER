@@ -1,6 +1,9 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Les modes d'éditions et les objets
 
+- [Les composants des volumes](#)
+- [Les pricipales commandes](#)
+- [Sélection](#)
 
 ## Les composants des volumes
 

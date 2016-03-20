@@ -1,6 +1,14 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Les techniques de modélisations
 
+- [Le modifieur mirror](#)
+- [Le Spin](#)
+- [Array](#)
+- [Subdivision de surface](#)
+- [Le Bevel](#)
+- [Le Screw](#)
+- [Curve](#)
+
 ## Le modifieur *mirror*
 ![mirror modifier](src/mirror-modifier.png)
 
@@ -72,7 +80,7 @@ L'outil *screw* est similaire au *spin* puisqu'il fait tourner un arrête en la 
 
 ![le modifieur *curve*](src/modifier-curve.png)
 
-Le modifieur *curve*, comme son nom l'indique sert à courber un *mesh* à l'aide de courbe. En déplaçant /extrudant les points de la courbe vous changerez vous pourrez courber votre *mesh*.
+Le modifieur *curve*, comme son nom l'indique sert à courber un *mesh* à l'aide de courbe. En déplaçant /extrudant les points de la courbe vous pourrez courber votre *mesh*.
 
 [Télécharger le fichier d'exemple](fichiers-blender/modifieur-courbe.blend)
 

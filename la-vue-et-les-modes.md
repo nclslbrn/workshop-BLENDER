@@ -1,6 +1,8 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 [INDEX](readme.md) >> Le plan de travail
 
+- [La vue](#)
+- [Les modes d'éditions](#)
 
 ## La vue
 Par défaut, il n'y a qu'une vue 3D de la scène.
@@ -16,7 +18,7 @@ Avec le clavier:
 - ```5``` : vue en perspective ou orthographique
 - ```7``` : vue de dessus
 - ```1``` : vue de face
-- ```3``` : vue de cotès 
+- ```3``` : vue de cotès
 - &uArr; (maj) + ```C``` : recentrer le repère et la vue sur le centre de la scène
 - en ayant un objet sélectionné  &uArr; (maj) + ```.``` : recentrer le repère et la vue sur l'objet.
 
