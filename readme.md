@@ -24,8 +24,8 @@ INDEX
 - [Les textures](les-textures.md)
   - Défintion
   - UV mapping
-  - Bump map & Co.
--[L'éclairage](l-eclairage.md)
+  - Bump map & Co.   
+- [L'éclairage](l-eclairage.md)
 
 
 
