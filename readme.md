@@ -18,6 +18,14 @@ INDEX
   - Le Screw
   - Curve
 - [Les matériaux](les-materiaux.md)
+  - Cycle
+  - Installer une collection de matériaux
+  - Les shaders
+- [Les textures](les-textures.md)
+  - Défintion
+  - UV mapping
+  - Bump map & Co.
+-[L'éclairage](l-eclairage.md)
 
 
 
