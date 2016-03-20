@@ -38,7 +38,7 @@ Il existe une extension pour créer un plan ( au ratio de votre image ) avec vot
 
 Certaine textures vont directement influencer, les rebonds de lumières, la profondeur de l'image mappée et peuvent même faire des trous dans le matériel.
 
-![rendu du fichier d'exemple](src/mapping-example.jpg)
+![rendu du fichier d'exemple](src/mapping-example.png)
 
 Voici [un tutoriel vidéo](https://www.youtube.com/watch?v=NeWTTINkUG0) pour réaliser une *specular map*, ( une carte qui va décrire comment votre solide va accrocher la lumière ) ainsi qu'une *bump map* ( une carte qui va renforcer la profondeur d'une autre texture).
 
