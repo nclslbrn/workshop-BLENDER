@@ -5,7 +5,7 @@
 
 Les textures sont liées au matériel, si vous appliquez plusieurs matériaux, vous pourrez alors y coller plusieurs textures.
 
-Dans la plupart des cas, la texture est une sorte de coloriage qui s'applique au matériel, elle ne définit pas la manière qu'à la lumière d'intégagir avec le solide.
+Dans la plupart des cas, la texture est une sorte de coloriage qui s'applique au matériel, elle ne définit pas la manière qu'a la lumière d'intéragir avec le solide.
 
 ![liste des différentes textures](src/texture-panel.png)
 
@@ -13,7 +13,7 @@ Dans la plupart des cas, la texture est une sorte de coloriage qui s'applique au
 - *Clouds* : une texture de nuage
 - *Distorded Noise* : une texture distordu semblable à une explosion
 - *Environment Map* : une texture à 360° utilisée pour les *Skybox*
-- *Image or Movie* : à vous de voir
+- *Image or Movie* : à vous de voir ce que vous y mettez
 - *Magic* : une texture d'onde
 - *Marble* : une texture marbrée
 - *Musgrave* : une texture cottonée
@@ -22,13 +22,13 @@ Dans la plupart des cas, la texture est une sorte de coloriage qui s'applique au
 - *Point density* : une texture de halo réagissant aux particules
 - *Stucci* : une texture pour les murs et le papier
 - *Voronoi* : une texture en forme de cellule
-- *Voxel Data* : une texture de cheveux, de fumée réagissant aux particules
+- *Voxel Data* : une texture de cheveux ou de fumée réagissant aux particules
 - *Wood* : une texture de bois
 
 
 ## UV mapping
 
-Pour les images qui doivent être *mappée* d'une manière trés précise, il vous faudra, déplié votre solide avec *Blender* en *UV editing*. Voici [un tutoriel](https://openclassrooms.com/courses/uv-mapping-avec-blender) qui vous explique comment faire.
+Pour les images qui doivent être *mappées* d'une manière trés précise, il vous faudra déplier votre solide avec *Blender* en *UV editing*. Voici [un tutoriel](https://openclassrooms.com/courses/uv-mapping-avec-blender) qui vous explique comment faire.
 
 Vous pouvez aussi télécharger un [fichier d'exemple ici](fichiers-blender/mpd24.zip).
 
@@ -43,9 +43,9 @@ Certaine textures vont directement influencer, les rebonds de lumières, la prof
 Voici [un tutoriel vidéo](https://www.youtube.com/watch?v=NeWTTINkUG0) pour réaliser une *specular map*, ( une carte qui va décrire comment votre solide va accrocher la lumière ) ainsi qu'une *bump map* ( une carte qui va renforcer la profondeur d'une autre texture).
 
 Vous pouvez aussi télécharger le [fichier d'exemple](fichiers-blender/mapping.blend) ou vous trouverez:
-- *alpha map*
-- *diffuse map*
-- *normal map*
-- *specular map*
-- *bump map*
-- *ambient occlusion map*
+- *alpha map* : une texture transparente
+- *diffuse map* : la texture de base qu done la couleur
+- *normal map* : une texture pour accentuer le relief sur la profondeur
+- *specular map* : une *map* pour la lumière direct
+- *bump map* : une texture pour accentuer le relief sur les trois axes
+- *ambient occlusion map* : une autre map de lumière pour l'éclairage ambient

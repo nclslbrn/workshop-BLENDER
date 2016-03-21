@@ -26,10 +26,10 @@ Les commandes spécifiques au <em>edit mode</em>
 ![loop-cut](src/loop-cut.png)
 - ```ctrl``` + ```r``` : découper une face ou un segment en plusieurs sections ( choisir le nombre de division avec la molette de la souris )
 
-*: objet / face(s) / segement(s) / point(s) sélectionné: Vous pouvez, après avoir lancer ces commandes, appuyer sur ```x```, ```y``` ou ```z``` pour vérouiller la modification sur ces axes.   
+*: Vous pouvez, après avoir lancer ces commandes, appuyer sur ```x```, ```y``` ou ```z``` pour vérouiller la modification sur ces axes.   
 
 ![modes](src/locked-on-x.png)  
-Vous pouvez aussi, après avoir vérouiller un axe, définir une valeur à l'aide de votre clavier.
+Vous pouvez aussi, après avoir vérouiller un axe, définir une valeur ( négative ou positive ) à l'aide de votre clavier.
 
 > Certaines commandes n'ont pas de raccourci, vous devez les retrouver dans le panneau latéral droit, ou ( et cela marche pour toute les commandes ) appuyer sur espace et taper le nom de la commande.
 
@@ -39,7 +39,7 @@ La commande *```subdivide```* vous permettra multiplier le nombre de points.
 
 ## Sélection
 
-La prise en main de Blender peut sembler déroutante au début, car dans la scène, le clique droit sert à la selection d'objet et le clique gauche permet de déplacer un repère qui servira à déplacer les objets ou *mesh*
+La prise en main de Blender peut sembler déroutante au début, car dans la scène, le clique droit sert à la selection d'objet et le clique gauche permet de déplacer un repère qui servira à déplacer les objets ( *mesh* ) ou la vue.
 
 
 - ```a``` : tout sélectionner / tout déselectionner
@@ -53,4 +53,4 @@ La prise en main de Blender peut sembler déroutante au début, car dans la scè
 ![modes](src/selection-enregistree.png)
 
 Vous pouvez aussi enregistrer des sélections de points dans le panneau latéral gauche.
-Cela est particulièrement utile si vous avez prévu de mettre plusieurs matériaux à ce solide ou si vous voulez utilise des modifieurs sur une partie du solide.
+Cela est particulièrement utile si vous avez prévu de mettre plusieurs matériaux à ce solide ou si vous voulez utiliser des modifieurs sur une partie du solide.

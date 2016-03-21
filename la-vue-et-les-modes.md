@@ -6,7 +6,7 @@
 Par défaut, il n'y a qu'une vue 3D de la scène.
 
 Avec la souris, vous pouvez vous déplacer dedans :
-- le <em>scroll</em> permet de zoomer /dézoomer
+- le <em>scroll</em> permet de zoomer / dézoomer
 - en cliquant sur la molette de <em>scroll</em> vous pouvez tourner autour de votre repère ![le repère](src/repere.png)
 
 Avec le clavier:
@@ -31,7 +31,7 @@ Si vous souhaitez avoir plusieurs vues 3D, faite glisser le coin supérieur droi
 
 ![modes](src/edit_mode-object_mode.png)
 
-Vous pouvez modifier les objets selon deux modes, le premier, <em>object mode</em> vous permettra de déplacer, mettre à l'échelle, faire des rotations sur un objet, le deuxième, <em>edit mode</em> vous permettra de faire ces même opérations et d'autres dans l'objet sélectionné. L'<em>edit mode</em> sert principalement à modifier certaines parties ou composantes de l'objet / <em>mesh</em>.
+Vous pouvez modifier les objets selon deux modes, le premier, <em>object mode</em> vous permettra de déplacer, mettre à l'échelle, faire des rotations sur un objet, le deuxième, <em>edit mode</em>, vous permettra de faire ces même opérations et d'autres __dans__ l'objet sélectionné. L'<em>edit mode</em> sert principalement à modifier certaines parties ou composantes de l'objet / <em>mesh</em>.
 
 Vous pouvez à tout moment basculer entre ces deux modes avec la touche &rlarr; (tab) de votre clavier.
 
@@ -41,10 +41,10 @@ Vous pouvez à tout moment basculer entre ces deux modes avec la touche &rlarr; 
 
 ![changer le moteur de rendu](src/aspect-des-solides.png)
 
-Ici vous allez pouvoir changer, l'aspect de vos solides, cela sert uniquement dans la vue 3D.
-- *Bounding Box* montre les contours de votre solide sous la forme d'un cube
-- *Wireframe* montre le maillage de votre solide ( fil de fer )
-- *Solid* le solide entier recouvert avec la / les couleur/s que vous lui avez définis
-- *Texture* idem mais recouvert avec la texture qui lui ait attribué
-- *Material* idem mais recouvert avec l'aspect la matière qui lui ait attribué
-- *Rendered* un aperçu de ce que va donner le rendu final
+Ici vous allez pouvoir changer, l'aspect de vos solides, cela sert uniquement dans la vue 3D (et n'affecte pas le rendu).
+- *Bounding Box* : montre les contours de votre solide sous la forme d'un cube
+- *Wireframe* : montre le maillage de votre solide ( fil de fer )
+- *Solid* : le solide entier recouvert avec la / les couleur/s que vous lui avez définis
+- *Texture* : idem mais recouvert avec la texture qui lui ait attribué
+- *Material* : idem mais recouvert avec l'aspect la matière qui lui ait attribué
+- *Rendered* : un aperçu de ce que va donner le rendu final

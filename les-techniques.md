@@ -4,7 +4,7 @@
 ## Le modifieur *mirror*
 ![mirror modifier](src/mirror-modifier.png)
 
-Ce modifieur se révèle trés pratique pour modéliser des objets symétriques. Pour pouvoir l'utliser correctement, il faudra que les faces qui vous servent de modèles à duppliquer soient décentrer ( le centre est marqué par le widget de déplacment ). Le plus simple est de partir d'une forme complète, celle ci doit avoir une taille équivalente à l'objet finale. En *edit mode* vous allez supprimer toutes les faces que vous voulez reconstituer par la suite avec le modifieur mirroir.
+Ce modifieur se révèle trés pratique pour modéliser des objets symétriques. Pour pouvoir l'utliser correctement, il faudra que les faces qui vous servent de modèles à duppliquer soient décentrer ( le centre est marqué par le widget de déplacement ). Le plus simple est de partir d'une forme complète, celle ci doit avoir une taille équivalente à l'objet finale. En *edit mode* vous allez supprimer toutes les faces que vous voulez reconstituer par la suite avec le modifieur mirroir.
 
 [Télécharger le fichier d'exemple](fichiers-blender/modifieur-mirroir.blend)
 
@@ -12,7 +12,7 @@ Ce modifieur se révèle trés pratique pour modéliser des objets symétriques.
 ## Le *Spin*
 ![outil spin](src/outil-spin.png)
 
-Cet outil doit être utiliser comme le modifieur mirroir. Le profil qui va être répété en tournat doit toujours être excentrer sinon il va tourner sur lui-même.
+Cet outil doit être utiliser comme le modifieur mirroir. Le profil qui va être répété en tournant doit toujours être excentré sinon il va tourner sur lui-même.
 
 [Télécharger le fichier d'exemple](fichiers-blender/outil-spin.blend)
 
@@ -30,9 +30,7 @@ Un modifieur de multiplication d'un objet avec un paramètre de décalage: il du
 
 [En savoir plus sur le *Array modifier*](https://www.blender.org/manual/modeling/modifiers/generate/array.html)
 
-<br />
-<br />
-<br />
+
 
 ## Subdivision de surface
 
@@ -48,7 +46,7 @@ Un démultiplicateur de points avec une option de lissage, se révèle très pra
 
 ![le modifieur *bevel*](src/bevel-modifier.png)
 
-Un outil pour biseauter les arrêtes : il ajoute une ou plusieurs nouvelle face entre les deux faces que réunissaient une arrête.
+Un outil pour biseauter les arrêtes : il ajoute une ( ou plusieurs ) nouvelle(s) face(s) entre les deux faces que réunissaient une arrête.
 
 [Télécharger le fichier d'exemple](fichiers-blender/modifieur-bevel.blend)
 
@@ -60,7 +58,7 @@ Un outil pour biseauter les arrêtes : il ajoute une ou plusieurs nouvelle face 
 ## Le *Screw*
 ![le modifieur *screw*](src/screw-modifier.png)
 
-L'outil *screw* est similaire au *spin* puisqu'il fait tourner un arrête en la duppliquant. Comme le modifieur *array* il a un paramêtre de décalage.
+L'outil *screw* est similaire au *spin* puisqu'il fait tourner une arrête en la duppliquant mais comme le modifieur *array* il a un paramêtre de décalage, permettant à votre profil de faire plusieurs tours.
 
 [Télécharger le fichier d'exemple](fichiers-blender/screw-modifier.blend)
 
@@ -72,7 +70,7 @@ L'outil *screw* est similaire au *spin* puisqu'il fait tourner un arrête en la 
 
 ![le modifieur *curve*](src/modifier-curve.png)
 
-Le modifieur *curve*, comme son nom l'indique sert à courber un *mesh* à l'aide de courbe. En déplaçant /extrudant les points de la courbe vous pourrez courber votre *mesh*.
+Le modifieur *curve*, comme son nom l'indique sert à courber un *mesh* à l'aide d'une courbe. En déplaçant ou en extrudant les points de la courbe vous pourrez courber votre *mesh*.
 
 [Télécharger le fichier d'exemple](fichiers-blender/modifieur-courbe.blend)
 
