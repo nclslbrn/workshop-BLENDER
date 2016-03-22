@@ -30,7 +30,5 @@ INDEX
   - Plusieurs lumières
   - Un éclairage volumétrique
 - [Le rendu 3D](le-rendu-3D.md)
-  - 
-
-
-Nicolas Lebrun
+  - La caméra
+  - Les reglages d'export
