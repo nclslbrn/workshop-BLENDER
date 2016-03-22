@@ -27,7 +27,10 @@ INDEX
   - UV mapping
   - Bump map & Co.   
 - [L'éclairage](l-eclairage.md)
-
+  - Plusieurs lumières
+  - Un éclairage volumétrique
+- [Le rendu 3D](le-rendu-3D.md)
+  - 
 
 
 Nicolas Lebrun
