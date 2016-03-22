@@ -2,15 +2,15 @@
 INDEX
 
 
-- [Le plan de travail et les modes d'édition](la-vue-et-les-modes.md)
+- [Le plan de travail et les modes d'édition](1-la-vue-et-les-modes.md)
   - La vue
   - Les modes d'éditions
   - Changer l'aspect des solides de la vue 3D
-- [Les volumes et les principales commandes](les-volumes.md)
+- [Les volumes et les principales commandes](2-les-volumes.md)
   - Les composants des volumes
   - Les pricipales commandes
   - Sélection
-- [Les technique de modélisation](les-techniques.md)
+- [Les technique de modélisation](3-les-techniques.md)
   - Le modifieur mirror
   - Le Spin
   - Array
@@ -18,17 +18,17 @@ INDEX
   - Le Bevel
   - Le Screw
   - Curve
-- [Les matériaux](les-materiaux.md)
+- [Les matériaux](4-les-materiaux.md)
   - Cycle
   - Installer une collection de matériaux
   - Les shaders
-- [Les textures](les-textures.md)
+- [Les textures](5-les-textures.md)
   - Défintion
   - UV mapping
   - Bump map & Co.   
-- [L'éclairage](l-eclairage.md)
+- [L'éclairage](6-l-eclairage.md)
   - Plusieurs lumières
   - Un éclairage volumétrique
-- [Le rendu 3D](le-rendu-3D.md)
+- [Le rendu 3D](7-le-rendu-3D.md)
   - La caméra
   - Les reglages d'export
