@@ -21,6 +21,6 @@ Vous trouverez aussi dans l'onglet *Camera Presets* différents modèles d'appar
 Ici on a :
 - Resolution -> X : la largeur de l'image
 - Resolution -> Y : la hauteur de l'image
-- Le pourcentage : une échelle de qualité ( pourcentage de la largeur et de la hauteur ), utile pour faire des pré-rendu
+- Le pourcentage : une échelle de qualité ( pourcentage de la largeur et de la hauteur ), utile pour faire des pré-rendus
 - Aspect ratio -> X : le rapport de largeur (entre la largeur et la hauteur) ex1 : 16, ex2 : 4
 - Aspect ratio -> Y : le rapport de hauteur (entre la largeur et la hauteur) ex1 : 9, ex : 3
