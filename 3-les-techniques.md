@@ -1,5 +1,5 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
-[INDEX](readme.md) >> Les techniques de modélisations
+[INDEX](readme.md) >> Les techniques de modélisation
 
 ## Le modifieur *mirror*
 ![mirror modifier](src/mirror-modifier.png)
