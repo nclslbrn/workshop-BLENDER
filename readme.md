@@ -1,7 +1,7 @@
 # ![logo blender](src/blender.png)La 3D avec Blender
 INDEX
 
-Également hébergé sur [http://workshop-blender.nicolas-lebrun.fr/](workshop-blender.nicolas-lebrun.fr)
+Également hébergé sur [workshop-blender.nicolas-lebrun.fr](https://workshop-blender.nicolas-lebrun.fr)
 
 
 - [Le plan de travail et les modes d'édition](1-la-vue-et-les-modes.md)
